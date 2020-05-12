@@ -1,1 +1,1 @@
-# CRUD_DBbrowser-with-Python
+Sistema de registro de productos con python, Tkinter y DbBrowser
